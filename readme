@@ -1,1 +1,4 @@
 Just create new folder "Generated_txt" (for saving generated text files) next to Wikipedia_Keywords_Extractor_v4.2.py and run the program.  There is no need for any extra files or text documents, written code downloads text from given wikipedia pages. You can put desired wikipedia pages in code if you want to extract keywords from it. For example, just head to chosen wikipedia page and copy text after www.wikipedia.org/wiki/Text_to_copy, so if you want to use Alfa Romeo from wikipedia (https://en.wikipedia.org/wiki/Alfa_Romeo) you just need "Alfa_Romeo". Copy Alfa_Romeo and paste it into pages_array into .py file, after that run the program.
+
+You can enter as many pages as you need keywords for. In the .py file there is pages_array with list of 50 wikipedia pages and another one with 5 pages for testing (saves time).
+Also you can enter desired number of most frequent words to be saved in text file.
